@@ -1,0 +1,3 @@
+data:image/svg+xml;base64,INSERT_YOUR_BASE64_ENCODED_SVG_HERE
+
+data:application/json;base64,INSERT_YOUR_BASE64_ENCODED_JSON_HERE
