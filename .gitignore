@@ -3,8 +3,7 @@ node_modules
 coverage
 coverage.json
 typechain
-# /.gitignore
-frontend/node_modules
+
 
 #Hardhat files
 cache
